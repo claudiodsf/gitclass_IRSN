@@ -9,3 +9,4 @@ Today is Friday and it is sunny 🌞
 This line was added from my computer
 
 Another remote modification
+Another local modification
